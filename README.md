@@ -5,33 +5,32 @@
 
 
 * [Instructions](#instructions)
-*
- [Contributing](#contributing)
+* [Build](#build)
 
 
 ## Instructions
 
 
-Run the 'index.html' file to start the project in a browser.
+* Run the 'index.html' file to start the project in a browser.
 
-Select the desired height, width and color to make a grid.
+* Select the desired height, width and color to make a grid.
 
-Click on individual grid pixels to fill the selected color.
+* Click on individual grid pixels to fill the selected color.
 
-To change the grid, resubmit with desired inputs.
+* To change the grid, resubmit with desired inputs.
 
 
 ## Build
 
-This game is built using HTML, CSS and JavaScript.
+* This game is built using HTML, CSS and JavaScript.
 
-It runs on any web browser.
+* It runs on any web browser.
 
-It needs internet connection to gather required files and run properly.
+* It needs internet connection to gather required files and run properly.
 
 
-
-Click on this [LINK](https://ervaibhavkumar.github.io/Udacity-Pixel-Art-Maker/) to see the live version of the website.
+##
+Click on this [LINK](https://jojeyi.github.io/Udacity-Pixel-Art-Maker/) to see the live version of the website.
 
 
 ### OR
