@@ -30,7 +30,7 @@
 
 
 ##
-Click on this [LINK](https://jojeyi.github.io/Udacity-Pixel-Art-Maker/) to see the live version of the website.
+Click on this [LINK] https://jojeyi.github.io/Pixel-Art-Maker/ to see the live version of the website.
 
 
 ### OR
